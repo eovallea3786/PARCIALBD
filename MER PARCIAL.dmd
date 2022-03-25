@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="MER PARCIAL" id="8BC1CDEB-7AA9-7183-5D5F-DBEB16FA1E65" version="3.5">
+<createdBy>zona8</createdBy>
+<createdTime>2022-03-25 07:52:11 UTC</createdTime>
+<ownerDesignName>MER PARCIAL</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>8BC1CDEB-7AA9-7183-5D5F-DBEB16FA1E65</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="3892818D-0A4C-2AFB-35C1-F81083886480">
+<designStoragePath>C:\PARCIAL BD</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
